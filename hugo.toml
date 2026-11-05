@@ -2,3 +2,5 @@ baseURL = "https://fp-bits.github.io/mi-mini-sitio-hugo/"
 languageCode = "es"
 title = "Mi sitio web práctico"
 
+publishDir = "."
+
